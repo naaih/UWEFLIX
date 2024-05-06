@@ -4,7 +4,7 @@
 
 UWEFlix is a cinema ticket booking and reservation system developed using Laravel. It has features like user roles, authentication, automated reservations, and much more.
 
-## What is added in the code
+## Code Overview 
 
 -   Routing basics
 -   MVC architecture
