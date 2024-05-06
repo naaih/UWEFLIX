@@ -76,7 +76,6 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
     ```bash
     php artisan storage:link
     ```
-    The Laravel application will be accessible at the specified URL (usually http://localhost:8000).
 9. Finally, you can start the local development server:
     ```bash
     php artisan serve
