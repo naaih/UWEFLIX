@@ -32,7 +32,9 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
 | ClubRepresentative | clubRep&#64;uweflix&#46;com     | clubRep       | clubpass        |
 
 <br>
+
 ---
+
 <br>
 
 ## Installation Instructions
