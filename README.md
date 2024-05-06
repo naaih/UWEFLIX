@@ -22,9 +22,9 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
 
 > Note: The website resets automatically every 30 minutes.
 
-### Credentials
+### System Credentials
 
-| User Role          | Email                           | Username      | Password        |
+| Role               | Email                           | Username      | Password        |
 | ------------------ | ------------------------------- | ------------- | --------------- |
 | SystemAdmin        | systemadmin&#64;uweflix&#46;com | systemAdmin   | adminpass       |
 | CinemaManager      | cm-manager&#64;uweflix&#46;com  | cinemaManager | cm_managerpass  |
