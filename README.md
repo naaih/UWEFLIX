@@ -88,13 +88,13 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
 
 <br>
 
-**Administrator:**
+**System Administrator:**
 
 -   Manages users' creation and website authorities
 -   Accepts requests from managers to become managers
 -   Can delete existing users
 
-**Manager:**
+**Cinema Manager:**
 
 -   Responsible for managing, creating, and modifying movie details
 -   Responsible for managing, creating, and modifying shows
