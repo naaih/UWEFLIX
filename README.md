@@ -53,29 +53,29 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
     ```bash
     composer install
     ```
-4. Create a copy of the .env.example file, name it .env, and enter database credentials:
+   If composer installation fails, Run the following command:
     ```bash
-    cp .env.example .env
+    composer update
     ```
-5. Generate an application key:
+4. Generate an application key:
     ```bash
     php artisan key:generate
     ```
-6. Configure the .env file. Open the .env file in a text editor and set the necessary configuration options, such as database credentials and application-specific settings.
-7. Run the database migrations to create the required tables:
+5. Configure the .env file. Open the .env file in a text editor and set the necessary configuration options, such as database credentials and application-specific settings.
+6. Run the database migrations to create the required tables:
     ```bash
     php artisan migrate
     ```
-8. Optionally, seed the database with 20 movies, shows, users, and categories:
+7. Optionally, seed the database with 20 movies, shows, users, and categories:
     ```bash
     php artisan db:seed
     ```
-9. Create a symbolic link from public/storage to storage/app/public by:
+8. Create a symbolic link from public/storage to storage/app/public by:
     ```bash
     php artisan storage:link
     ```
     The Laravel application will be accessible at the specified URL (usually http://localhost:8000).
-10. Finally, you can start the local development server:
+9. Finally, you can start the local development server:
     ```bash
     php artisan serve
     ```
