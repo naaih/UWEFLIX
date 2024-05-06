@@ -39,6 +39,8 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
 
 ## Installation Instructions
 
+> Note: As this is a college group project and not a production ready application, the .env file is already configured and included in the repository.
+
 <br>
 
 1. Clone the repository by running the following command in your terminal or command prompt:
@@ -80,7 +82,7 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
     php artisan serve
     ```
     The Laravel application will be accessible at the specified URL (usually http://localhost:8000).
-
+   
 <br>
 
 ## User Roles
