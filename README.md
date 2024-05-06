@@ -24,7 +24,7 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
 
 ### System Credentials
 
-| Role               | Email                           | Username      | Password        |
+| User Role               | Email                           | Username      | Password        |
 | ------------------ | ------------------------------- | ------------- | --------------- |
 | SystemAdmin        | systemadmin&#64;uweflix&#46;com | systemAdmin   | adminpass       |
 | CinemaManager      | cm-manager&#64;uweflix&#46;com  | cinemaManager | cm_managerpass  |
