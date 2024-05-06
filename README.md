@@ -63,7 +63,7 @@ UWEFlix is a cinema ticket booking and reservation system developed using Larave
     ```bash
     php artisan key:generate
     ```
-5. Configure the .env file. Open the .env file in a text editor and set the necessary configuration options, such as database credentials and application-specific settings.
+5. Configure the .env file and set the necessary configuration options, such as database credentials and application-specific settings.
 6. Run the database migrations to create the required tables:
     ```bash
     php artisan migrate
